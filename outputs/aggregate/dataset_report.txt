@@ -1,0 +1,24 @@
+============================================================
+VIDEO2CODE - DATASET STATISTICS REPORT
+Generated: 2026-03-24T12:18:39.988680
+Mode: Aggregate: 3 videos
+============================================================
+
+OVERVIEW
+  Videos processed:        3
+  Total utterances:        1,420
+  Total hours of content:  4.7h
+
+SEGMENTS PER VIDEO
+  Min:    30
+  Max:    1224
+  Mean:   473.3
+  Median: 166
+  StDev:  653.6
+
+PER-VIDEO BREAKDOWN
+  vid_001         Segs=  1224 Segs/min=   5.1 Duration=  03:58:43  Title: Master Full-Stack Docker & CI/CD - Build
+  vid_002         Segs=   166 Segs/min=   4.1 Duration=  00:40:56  Title: DETR: End-to-End Object Detection with T
+  vid_003         Segs=    30 Segs/min=   6.2 Duration=  00:04:49  Title: This new Linux distro is breaking the la
+
+============================================================

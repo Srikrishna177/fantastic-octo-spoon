@@ -1,0 +1,22 @@
+============================================================
+VIDEO2CODE - DATASET STATISTICS REPORT
+Generated: 2026-03-20T17:26:28.394143
+Mode: Single video: vid_002
+============================================================
+
+OVERVIEW
+  Videos processed:        1
+  Total utterances:        166
+  Total hours of content:  0.7h
+
+SEGMENTS PER VIDEO
+  Min:    166
+  Max:    166
+  Mean:   166
+  Median: 166
+  StDev:  0
+
+PER-VIDEO BREAKDOWN
+  vid_002         Segs=   166 Segs/min=   4.1 Duration=  00:40:56  Title: DETR: End-to-End Object Detection with T
+
+============================================================

@@ -1,0 +1,22 @@
+============================================================
+VIDEO2CODE - DATASET STATISTICS REPORT
+Generated: 2026-03-24T12:18:02.128228
+Mode: Single video: vid_003
+============================================================
+
+OVERVIEW
+  Videos processed:        1
+  Total utterances:        30
+  Total hours of content:  0.1h
+
+SEGMENTS PER VIDEO
+  Min:    30
+  Max:    30
+  Mean:   30
+  Median: 30
+  StDev:  0
+
+PER-VIDEO BREAKDOWN
+  vid_003         Segs=    30 Segs/min=   6.2 Duration=  00:04:49  Title: This new Linux distro is breaking the la
+
+============================================================

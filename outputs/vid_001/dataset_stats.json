@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-03-20T17:26:28.243145",
+  "mode": "single_video",
+  "n_videos": 1,
+  "total_segments": 1224,
+  "total_hours": 3.98,
+  "segments_per_video": {
+    "min": 1224,
+    "max": 1224,
+    "mean": 1224,
+    "median": 1224,
+    "stdev": 0
+  },
+  "per_video": [
+    {
+      "video_id": "vid_001",
+      "title": "Master Full-Stack Docker & CI/CD - Build a Production-Ready ",
+      "channel": "freeCodeCamp.org",
+      "duration_seconds": 14323,
+      "duration_human": "03:58:43",
+      "n_segments": 1224,
+      "segments_per_minute": 5.13,
+      "word_count_mean": 27.05,
+      "word_count_median": 24.0
+    }
+  ]
+}

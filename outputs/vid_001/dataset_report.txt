@@ -1,0 +1,22 @@
+============================================================
+VIDEO2CODE - DATASET STATISTICS REPORT
+Generated: 2026-03-20T17:26:28.243145
+Mode: Single video: vid_001
+============================================================
+
+OVERVIEW
+  Videos processed:        1
+  Total utterances:        1,224
+  Total hours of content:  4.0h
+
+SEGMENTS PER VIDEO
+  Min:    1224
+  Max:    1224
+  Mean:   1224
+  Median: 1224
+  StDev:  0
+
+PER-VIDEO BREAKDOWN
+  vid_001         Segs=  1224 Segs/min=   5.1 Duration=  03:58:43  Title: Master Full-Stack Docker & CI/CD - Build
+
+============================================================

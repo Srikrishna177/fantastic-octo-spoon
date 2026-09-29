@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-03-24T12:18:02.128228",
+  "mode": "single_video",
+  "n_videos": 1,
+  "total_segments": 30,
+  "total_hours": 0.08,
+  "segments_per_video": {
+    "min": 30,
+    "max": 30,
+    "mean": 30,
+    "median": 30,
+    "stdev": 0
+  },
+  "per_video": [
+    {
+      "video_id": "vid_003",
+      "title": "This new Linux distro is breaking the law, by design\u2026",
+      "channel": "Fireship",
+      "duration_seconds": 289,
+      "duration_human": "00:04:49",
+      "n_segments": 30,
+      "segments_per_minute": 6.23,
+      "word_count_mean": 31.7,
+      "word_count_median": 30.0
+    }
+  ]
+}

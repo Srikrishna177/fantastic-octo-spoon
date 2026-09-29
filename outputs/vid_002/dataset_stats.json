@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-03-20T17:26:28.394143",
+  "mode": "single_video",
+  "n_videos": 1,
+  "total_segments": 166,
+  "total_hours": 0.68,
+  "segments_per_video": {
+    "min": 166,
+    "max": 166,
+    "mean": 166,
+    "median": 166,
+    "stdev": 0
+  },
+  "per_video": [
+    {
+      "video_id": "vid_002",
+      "title": "DETR: End-to-End Object Detection with Transformers (Paper E",
+      "channel": "Yannic Kilcher",
+      "duration_seconds": 2456,
+      "duration_human": "00:40:56",
+      "n_segments": 166,
+      "segments_per_minute": 4.06,
+      "word_count_mean": 37.67,
+      "word_count_median": 50.0
+    }
+  ]
+}
